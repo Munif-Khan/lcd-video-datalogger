@@ -16,7 +16,7 @@ A PyTorch-based computer vision pipeline that:
 |---|---|---|
 | ![frame](docs/frame_example.png) | ![crop](docs/crop_example.png) | `806.4 V, 224.70 A` |
 
-*Tested on a 3-phase MPPT solar controller LCD (dot-matrix, green backlight) recorded with a smartphone at 30 fps.*
+*Built for a research experiment to digitise instrument readings off video — tested on a dot-matrix LCD with green backlight, recorded handheld with a smartphone at 30 fps.*
 
 ---
 
@@ -207,4 +207,4 @@ MIT — free to use, modify, and distribute. A star ⭐ is appreciated if this s
 
 ## Acknowledgements
 
-Built to automate data extraction for MPPT solar controller performance analysis. The training workflow is inspired by the idea that **a tiny model trained on your own data beats a huge generic model every time**.
+Built to automate data extraction for a research experiment, replacing hours of manual transcription from video footage. The training workflow is inspired by the idea that **a tiny model trained on your own data beats a huge generic model every time**.
