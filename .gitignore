@@ -1,0 +1,10 @@
+.DS_Store
+__pycache__/
+*.pyc
+*.pyo
+*.pth
+*.xlsx
+*.mp4
+*.avi
+*.mov
+hsv_config.txt
